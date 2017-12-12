@@ -1,6 +1,7 @@
 {
   "name": "google-open-sans",
   "private": true,
+  "version": "1.0.1",
   "dependencies": {
     "gulp": "*",
     "gulp-gzip": "*",
